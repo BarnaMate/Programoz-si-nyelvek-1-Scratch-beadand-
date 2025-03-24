@@ -3,3 +3,4 @@
 - A játék elején csak egy piros labda van, viszont a játék azzal nehezedik, hogy 10; 25; 50 és 75 pontok elérésekor egy-egy újabb piros labda kerül be a játékba
 - A játéknak akkor van vége, ha elérjük a 100 pontot (ekkor nyerünk), vagy hozzáérünk a piros labdák egyikéhez (ekkor vesztünk)
 ![image](https://github.com/user-attachments/assets/f06d6923-4500-4adb-8758-7024d0941ac3)
+Link: https://scratch.mit.edu/projects/1138991218
